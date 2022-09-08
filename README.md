@@ -99,16 +99,15 @@ Notas
 
 A continuación puedes ver los nodos del flow.
 
-![Captura de pantalla de 2022-09-08 10-21-49](https://user-images.githubusercontent.com/111372195/189161627-c5fc3378-ff37-44e7-b2dc-37df2ab85e49.png)
-
+![Captura de pantalla de 2022-09-08 11-41-49](https://user-images.githubusercontent.com/111372195/189178940-d027196c-0e3d-46f9-83eb-c434765c83be.png)
 
 A continuación puede ver el tablero resultante.
 
-![Captura de pantalla de 2022-09-08 10-21-43](https://user-images.githubusercontent.com/111372195/189161720-ddd7a216-5fd0-4e24-be0d-f114d4792503.png)
+![Captura de pantalla de 2022-09-08 11-41-43](https://user-images.githubusercontent.com/111372195/189179011-068487c7-3b43-4829-b181-f2a57a7b0341.png)
 
 # Evidencias
 
-  + https://youtu.be/brwxSWjVf6E
+  + https://youtu.be/O9KpHpT918A
 
 
 # Créditos
